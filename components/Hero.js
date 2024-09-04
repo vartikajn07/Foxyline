@@ -31,6 +31,7 @@ const Hero = () => {
             loop
             src="/images/Hero-video.mp4"
             type="video/mp4"
+            preload="auto"
           ></video>
         </div>
         <div className="sm:mt-14 hero-marquee">
