@@ -30,6 +30,7 @@ const Hero = () => {
             autoPlay
             loop
             src="/images/Hero-video.mp4"
+            type="video/mp4"
           ></video>
         </div>
         <div className="sm:mt-14 hero-marquee">

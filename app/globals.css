@@ -44,6 +44,7 @@
   .marquee__inner img {
     cursor: pointer;
     width: 6rem;
+    padding: 0 5vw;
   }
   .marquee__inner {
     animation: marquee 5s linear infinite;
