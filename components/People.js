@@ -47,6 +47,7 @@ const People = () => {
                   <img
                     className="object-center w-full h-full object-fit"
                     src="./images/people-image1.avif"
+                    loading="lazy"
                   />
                 </div>
                 <div className="flex flex-col items-start w-full gap-2 px-5 sm:gap-3 pt-7 sm:pt-20 sm:w-1/2 sm:h-full h-1/2 sm:px-14">
@@ -71,6 +72,7 @@ const People = () => {
                   <img
                     className="object-center w-full h-full object-fit"
                     src="./images/people-image2.avif"
+                    loading="lazy"
                   />
                 </div>
                 <div className="flex flex-col items-start w-full gap-2 px-5 sm:w-1/2 h-1/2 sm:h-full sm:gap-3 sm:pt-20 pt-7 sm:px-14">

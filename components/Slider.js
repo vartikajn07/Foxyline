@@ -61,6 +61,7 @@ const Slider = ({ deviceType }) => {
           <img
             className="object-cover w-full h-full rounded-2xl"
             src="./images/slider-image1.jpg"
+            loading="lazy"
           ></img>
           {/* Gradient Overlay */}
           <div
@@ -86,6 +87,7 @@ const Slider = ({ deviceType }) => {
           <img
             className="object-cover w-full h-full rounded-2xl"
             src="./images/slider-image2.jpg"
+            loading="lazy"
           ></img>
           {/* Gradient Overlay */}
           <div
@@ -112,6 +114,7 @@ const Slider = ({ deviceType }) => {
           <img
             className="object-cover w-full h-full rounded-2xl"
             src="./images/slider-image3.avif"
+            loading="lazy"
           ></img>
           {/* Gradient Overlay */}
           <div
@@ -137,6 +140,7 @@ const Slider = ({ deviceType }) => {
           <img
             className="object-cover w-full h-full rounded-2xl"
             src="./images/slider-image4.jpg"
+            loading="lazy"
           ></img>
           {/* Gradient Overlay */}
           <div
