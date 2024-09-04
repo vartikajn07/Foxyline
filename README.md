@@ -18,7 +18,7 @@ This is a landing page for a website that provides business advice to it's users
 
 Font used- Clash Grotesk
 
-Hosted on [Vercel](https://vercel.com/)
+Hosted on [Vercel](https://vercel.com/).
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
